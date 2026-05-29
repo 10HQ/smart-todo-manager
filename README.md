@@ -1,5 +1,8 @@
 # 智能待办事项管理系统
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+
 一个功能完整的Python命令行待办事项管理工具。
 
 ## 功能特性
